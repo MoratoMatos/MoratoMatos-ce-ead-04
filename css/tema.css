@@ -1,0 +1,50 @@
+body {
+  font-size   : 100%;
+  margin      : 0;
+  font-family : arial; 
+}
+
+.cabecalho {  
+
+  background-color :#009999;
+  color            : white;
+  text-align       : center;
+  font-style       : italic;
+  height           : 100px;
+  line-height      : 100px;
+  vertical-align   : middle;
+}
+
+.conteudo {  
+  text-align       : center;
+  line-height      : 40px; 
+  height 	         : 460px;
+  padding  	       : 3px;  
+ vertical-align   : middle;
+ margin-top       : 10px;
+}
+.rodape {  
+  background-color : #009999;
+  color            : white;
+  text-align       : center;
+  font-style       : italic;
+  height           : 40px;
+  line-height      : 40px;
+  vertical-align   : middle;  
+}
+
+
+.cabecalho h1 {
+ margin-top : 0;
+font-size   : 3em;
+  
+}
+.rodape h2 {
+  margin-bottom : 0;
+  font-size     : 1.5em;
+  
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  margin : 1%;
+}
